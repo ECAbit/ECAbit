@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <a href="https://ecabit.it/#contatti"><strong>Start a project →</strong></a>
+    <a href="https://ecabit.it/en#contacts"><strong>Start a project →</strong></a>
   </p>
 </div>
 
@@ -65,6 +65,6 @@ Most client and internal development is kept private. Public repositories will c
 
 <div align="center">
   <p><strong>Have an idea to turn into a digital product?</strong></p>
-  <p><a href="https://ecabit.it/#contatti">Tell us about the project</a></p>
+  <p><a href="https://ecabit.it/en#contacts">Tell us about the project</a></p>
   <sub>© ECABIT · Software built with purpose.</sub>
 </div>
